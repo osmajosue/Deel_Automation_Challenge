@@ -30,8 +30,8 @@ Here is a briefly explanation on how the framework works, the strategies used an
 
 ### Component and Page Objects approach:
 In the project are two main approaches:
-* Component Objects: This is a design approach that builts on top pf Page Objects, in which we try to modularize each aspect of the application as much as possible, dividing the pages into functional components that can be reused in more places.
 * Page Objects: In this approach the application is divided into pages, helping with organization, escalability, abstraction and maintainability.
+* Component Objects: This is a design approach that builts on top pf Page Objects, in which we try to modularize each aspect of the application as much as possible, dividing the pages into functional components that can be reused in more places.
 
 ## Utilities
 * Test Data: A json file was created to help parameterize the tests as much as possible.
