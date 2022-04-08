@@ -1,0 +1,60 @@
+{
+  "uid" : "489d899545c386c3",
+  "name" : "It should create a fixed rate contract and validate it",
+  "fullName" : "Create a fixed rate contract.It should create a fixed rate contract and validate it",
+  "historyId" : "accf897cfb85501e85ec5898b57277de",
+  "time" : {
+    "start" : 1649443345081,
+    "stop" : 1649443358103,
+    "duration" : 13022
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Create a fixed rate contract"
+  }, {
+    "name" : "testClass",
+    "value" : "Create a fixed rate contract"
+  }, {
+    "name" : "testMethod",
+    "value" : "It should create a fixed rate contract and validate it"
+  }, {
+    "name" : "package",
+    "value" : "Create a fixed rate contract"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-100.0.4896.60"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "489d899545c386c3.json",
+  "parameterValues" : [ "chrome-100.0.4896.60" ]
+}

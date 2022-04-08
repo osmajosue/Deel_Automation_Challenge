@@ -1,0 +1,30 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "Can't call click on element with selector \"[data-qa=\"add-a-special-clause\"]\" because element wasn't found",
+      "children" : [ {
+        "name" : "It should create a fixed rate contract and validate it",
+        "uid" : "b2195dac909d584a",
+        "parentUid" : "684e4b1176f82fcced5349b7d7cb684a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1649443537059,
+          "stop" : 1649443560023,
+          "duration" : 22964
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : true,
+        "parameters" : [ "chrome-100.0.4896.60" ]
+      } ],
+      "uid" : "684e4b1176f82fcced5349b7d7cb684a"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

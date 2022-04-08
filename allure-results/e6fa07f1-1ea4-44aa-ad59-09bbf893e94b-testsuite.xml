@@ -1,0 +1,34 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1649443537059' stop='1649443560025'>
+    <name>Create a fixed rate contract</name>
+    <title>Create a fixed rate contract</title>
+    <test-cases>
+        <test-case start='1649443537059' status='broken' stop='1649443560023'>
+            <name>It should create a fixed rate contract and validate it</name>
+            <title>It should create a fixed rate contract and validate it</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-100.0.4896.60'/>
+                <parameter kind='argument' name='browser' value='chrome-100.0.4896.60'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Can't call click on element with selector "[data-qa="add-a-special-clause"]" because element wasn't found</message>
+                <stack-trace>Error: Can't call click on element with selector "[data-qa="add-a-special-clause"]" because element wasn't found
+                    at implicitWait (C:\Users\Osmani Diaz\QA\Automation\WebdriverIO\deel_automation_task\wdio-v7-01\node_modules\webdriverio\build\utils\implicitWait.js:34:19)
+                    at Element.elementErrorHandlerCallbackFn (C:\Users\Osmani Diaz\QA\Automation\WebdriverIO\deel_automation_task\wdio-v7-01\node_modules\webdriverio\build\middlewares.js:20:29)
+                    at Element.wrapCommandFn (C:\Users\Osmani Diaz\QA\Automation\WebdriverIO\deel_automation_task\wdio-v7-01\node_modules\@wdio\utils\build\shim.js:137:29)
+                    at FixedRateComponent.addSpecialClause (C:\Users\Osmani Diaz\QA\Automation\WebdriverIO\deel_automation_task\wdio-v7-01\test\components\/fixed-contract-comp.js:136:9)
+                    at Context.&lt;anonymous> (C:\Users\Osmani Diaz\QA\Automation\WebdriverIO\deel_automation_task\wdio-v7-01\test\specs\/FixedRateContract.spec.js:66:9)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

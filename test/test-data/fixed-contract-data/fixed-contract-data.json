@@ -1,0 +1,19 @@
+{
+    "homeUrl" : "https://app.deel.training/",
+    "cookieAction" : "decline",
+    "testUser" : "osmanidiaz@testio.com",
+    "testPassword" : "123Test456!",
+    "testContractName" : "Test Contract",
+    "testCountry" : "United States",
+    "testState" : "Colorado",
+    "testJobTitle" : "Software QA",
+    "testLevel" : "Mid",
+    "testScope" : "it's all about lorem ipsum",
+    "testPaymentDetails" : {
+        "currency" : "GBP",
+        "rate" : "1,000",
+        "frequency": "Weekly"
+    },
+    "testClause" : "testing clause",
+    "testContractType" : "Fixed rate"
+}

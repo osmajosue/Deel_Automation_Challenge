@@ -1,0 +1,11 @@
+[ {
+  "uid" : "b2195dac909d584a",
+  "name" : "It should create a fixed rate contract and validate it",
+  "time" : {
+    "start" : 1649443537059,
+    "stop" : 1649443560023,
+    "duration" : 22964
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]

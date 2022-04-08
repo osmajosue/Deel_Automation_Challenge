@@ -1,0 +1,84 @@
+{
+  "uid" : "b2195dac909d584a",
+  "name" : "It should create a fixed rate contract and validate it",
+  "fullName" : "Create a fixed rate contract.It should create a fixed rate contract and validate it",
+  "historyId" : "accf897cfb85501e85ec5898b57277de",
+  "time" : {
+    "start" : 1649443537059,
+    "stop" : 1649443560023,
+    "duration" : 22964
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Can't call click on element with selector \"[data-qa=\"add-a-special-clause\"]\" because element wasn't found",
+  "statusTrace" : "Error: Can't call click on element with selector \"[data-qa=\"add-a-special-clause\"]\" because element wasn't found\n                    at implicitWait (C:\\Users\\Osmani Diaz\\QA\\Automation\\WebdriverIO\\deel_automation_task\\wdio-v7-01\\node_modules\\webdriverio\\build\\utils\\implicitWait.js:34:19)\n                    at Element.elementErrorHandlerCallbackFn (C:\\Users\\Osmani Diaz\\QA\\Automation\\WebdriverIO\\deel_automation_task\\wdio-v7-01\\node_modules\\webdriverio\\build\\middlewares.js:20:29)\n                    at Element.wrapCommandFn (C:\\Users\\Osmani Diaz\\QA\\Automation\\WebdriverIO\\deel_automation_task\\wdio-v7-01\\node_modules\\@wdio\\utils\\build\\shim.js:137:29)\n                    at FixedRateComponent.addSpecialClause (C:\\Users\\Osmani Diaz\\QA\\Automation\\WebdriverIO\\deel_automation_task\\wdio-v7-01\\test\\components\\/fixed-contract-comp.js:136:9)\n                    at Context.<anonymous> (C:\\Users\\Osmani Diaz\\QA\\Automation\\WebdriverIO\\deel_automation_task\\wdio-v7-01\\test\\specs\\/FixedRateContract.spec.js:66:9)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Create a fixed rate contract"
+  }, {
+    "name" : "testClass",
+    "value" : "Create a fixed rate contract"
+  }, {
+    "name" : "testMethod",
+    "value" : "It should create a fixed rate contract and validate it"
+  }, {
+    "name" : "package",
+    "value" : "Create a fixed rate contract"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-100.0.4896.60"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "489d899545c386c3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649443345081,
+        "stop" : 1649443358103,
+        "duration" : 13022
+      }
+    }, {
+      "uid" : "4a77f850e5a456cb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649441463173,
+        "stop" : 1649441477471,
+        "duration" : 14298
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "b2195dac909d584a.json",
+  "parameterValues" : [ "chrome-100.0.4896.60" ]
+}

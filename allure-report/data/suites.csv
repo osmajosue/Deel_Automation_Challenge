@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Fri Apr 08 14:45:37 BOT 2022","Fri Apr 08 14:46:00 BOT 2022","22964","","Create a fixed rate contract","","Create a fixed rate contract","It should create a fixed rate contract and validate it","It should create a fixed rate contract and validate it",""

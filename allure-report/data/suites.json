@@ -1,0 +1,26 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Create a fixed rate contract",
+    "children" : [ {
+      "name" : "It should create a fixed rate contract and validate it",
+      "uid" : "b2195dac909d584a",
+      "parentUid" : "19151d2430f0f26a6470d47e516aad91",
+      "status" : "broken",
+      "time" : {
+        "start" : 1649443537059,
+        "stop" : 1649443560023,
+        "duration" : 22964
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-100.0.4896.60" ]
+    } ],
+    "uid" : "19151d2430f0f26a6470d47e516aad91"
+  } ]
+}
