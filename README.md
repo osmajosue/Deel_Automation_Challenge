@@ -5,22 +5,22 @@
 ### Before running this test framework, you will need (Preferred):
 * The Chrome web browser version 100.0 or higher is required to run the tests.
 * Node version 14 or higher (16.14.2 was used in the project) installed. ([nodeJS] https://nodejs.org/en/)
-* NPM (version 8.6 was used in the project) installed. For installation just type in any terminal ```shell npm i ```
+* NPM (version 8.6 was used in the project) installed. For installation just type in any terminal ``` npm i ```
 * Mocha test framework.
 * Babel core 7.17.8.
-* Allure-commandline version 2.17.2 for reporting. For installation just type in any terminal ```shell npm i allure-commandline ```
+* Allure-commandline version 2.17.2 for reporting. For installation just type in any terminal ``` npm i allure-commandline ```
 * Any text editor or IDE (VScode was used in the project)
 
 
 ## USAGE
 
 In order to run all tests (spec files) from the terminal the following command will need to be used while on the project path:
-```shell
+```
 npx wdio
 ```
 
 Use this command to generate and open a report using allure commandline while on the project path:
-```shell
+```
 allure generate allure-results $$ allure open
 ```
 
