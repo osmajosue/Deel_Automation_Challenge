@@ -82,8 +82,6 @@ describe('Create a fixed rate contract', () => {
 
         await expect(fixedContract.SpecialClause).toHaveText(testClause);
 
-        console.log('This was the data used to assert all the steps:' + testData);
-
     });
 
 });
