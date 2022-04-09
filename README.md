@@ -5,7 +5,7 @@
 ### Before running this test framework, you will need (Preferred):
 * The Chrome web browser version 100.0 or higher is required to run the tests.
 * Node version 14 or higher (16.14.2 was used in the project) was installed. ([nodeJS] https://nodejs.org/en/)
-* NPM (version 8.6 was used in the project) installed. For installation just type in any terminal ``` npm i ```
+* NPM (version 8.6 was used in the project) installed. For node modules just type in any terminal ``` npm i ```
 * Mocha test framework.
 * Babel core 7.17.8.
 * Allure-commandline version 2.17.2 for reporting. For installation just type in any terminal ``` npm i allure-commandline ```
