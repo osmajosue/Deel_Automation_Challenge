@@ -1,4 +1,4 @@
-# Deel Automation Challenge
+# WebdriverIO Mini Framework
  This is a small framework created to automate the creation of a Fixed Rate Contract on Deel's training page. It's built using JavaScript, WebdriverIO-v7, Mocha, Babel, and Allure.
 
 # Pre-requisites:
